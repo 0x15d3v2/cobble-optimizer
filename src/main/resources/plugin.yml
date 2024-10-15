@@ -1,0 +1,5 @@
+name: CobbleOptimizer
+version: '1.0-SNAPSHOT'
+main: net.artren.cobble.Cobble
+folia-supported: true
+api-version: '1.21'
